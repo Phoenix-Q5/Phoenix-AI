@@ -1,0 +1,5 @@
+npx create-react-app ./
+
+npm i @alan-ai/alan-sdk-web @material-ui/core classnames words-to-numbers 
+
+8d1427713fa92cb02cc58ba14dcd835a2e956eca572e1d8b807a3e2338fdd0dc/stage
